@@ -1366,7 +1366,8 @@ def main():
         people_info = [
             {
                 "name": "Siddhanth Sridhar",
-                "intro": "Meet Siddhanth Sridhar, a fervent Computer Science Engineering (CSE) undergraduate at PES University, deeply immersed in the realm of Machine Learning. Fueled by curiosity and boundless enthusiasm, I continuously delve into the intricacies of artificial intelligence. I staunchly believe in technology's potential to reshape industries and enhance livelihoods, propelling me to the forefront of this exhilarating revolution.",
+                "intro": "
+Meet Siddhanth Sridhar, a fervent Computer Science Engineering (CSE) undergraduate at PES University, deeply immersed in the realm of Machine Learning. Fueled by curiosity and boundless enthusiasm, he continuously delves into the intricacies of artificial intelligence. He staunchly believes in technology's potential to reshape industries and enhance livelihoods, propelling him to the forefront of this exhilarating revolution.",
                 "linkedin": "https://www.linkedin.com/in/siddhanth-sridhar-4aa9aa222/",
                 "github": "https://github.com/sidd2305",
                 "image": "Sid_profile.jpeg"
@@ -1380,7 +1381,8 @@ def main():
             },
             {
                 "name": "Shreya Chaurasia",
-                "intro": "Introducing Shreya Chaurasia, a B.Tech Computer Science scholar driven by an insatiable curiosity for Machine Learning. Ambitious, passionate, and self-motivated, I find the potential of ML to revolutionize industries utterly captivating. Delving into data to reveal patterns and derive insights, I thrive on crafting innovative solutions. Challenges are my stepping stones to growth, and I relentlessly pursue excellence in all my pursuits.",
+                "intro": "
+Introducing Shreya Chaurasia, a B.Tech Computer Science scholar driven by an insatiable curiosity for Machine Learning. Ambitious, passionate, and self-motivated, she finds the potential of ML to revolutionize industries utterly captivating. Delving into data to reveal patterns and derive insights, she thrives on crafting innovative solutions. Challenges are her stepping stones to growth, and she relentlessly pursues excellence in all her pursuits.",
                 "linkedin": "https://www.linkedin.com/in/shreya-chaurasia-4b5407266/",
                 "github": "https://github.com/shreyyasiaa",
                 "image": "Shreya_profile.jpeg"
