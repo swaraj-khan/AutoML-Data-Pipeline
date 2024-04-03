@@ -35,6 +35,7 @@ returseqs = 0
 bidis = 0
 
 # Global variables from the second code
+
 global epoch, batch, drop, returseq, bidi
 epoch = 0
 batch = 0
@@ -1397,7 +1398,7 @@ def main():
             # Display introduction text
             st.write(person['intro'])
 
-            # Display LinkedIn and GitHub links
+            # Display LinkedIn and GitHub links.
             st.markdown(f"**LinkedIn:** [{person['name']}'s LinkedIn Profile]({person['linkedin']})")
             st.markdown(f"**GitHub:** [{person['name']}'s GitHub Profile]({person['github']})")
 
