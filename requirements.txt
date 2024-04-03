@@ -1,0 +1,14 @@
+numpy
+streamlit
+torch
+tensorflow
+pandas
+seaborn
+matplotlib
+scikit-learn
+ultralytics
+xgboost
+utils
+yolov5
+pyopengl
+opencv-contrib-python-headless
