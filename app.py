@@ -24,7 +24,7 @@ from xgboost import XGBRegressor, XGBClassifier
 from sklearn.metrics import accuracy_score, mean_squared_error
 import json
 from sklearn.preprocessing import LabelEncoder
-
+import joblib
 
 
 global epochs, batchs, drops, returseqs, bidis
