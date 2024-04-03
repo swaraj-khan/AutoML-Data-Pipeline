@@ -82,7 +82,7 @@ Meet the passionate individuals behind Dynamic AutoML:
 
 ### Siddhanth Sridhar
 
-![Siddhanth Sridhar](Sid_profile.jpeg)
+<img src="Sid_profile.jpeg" width="150">
 
 Siddhanth Sridhar is a fervent Computer Science Engineering (CSE) undergraduate at PES University, deeply immersed in the realm of Machine Learning. Fueled by curiosity and boundless enthusiasm, he continuously delves into the intricacies of artificial intelligence. He staunchly believes in technology's potential to reshape industries and enhance livelihoods, propelling him to the forefront of this exhilarating revolution.
 
@@ -91,7 +91,7 @@ Siddhanth Sridhar is a fervent Computer Science Engineering (CSE) undergraduate 
 
 ### Swaraj Khan
 
-![Swaraj Khan](Swaraj_profile.jpeg)
+<img src="Swaraj_profile.jpeg" width="150">
 
 Swaraj Khan is a driven B.Tech student at Dayananda Sagar University, immersing himself in the realm of Computer Science with a special focus on machine learning. With an unwavering commitment to tackling real-world challenges, Swaraj harnesses the power of technology to unravel complexities and pave the way for innovative solutions.
 
@@ -100,7 +100,7 @@ Swaraj Khan is a driven B.Tech student at Dayananda Sagar University, immersing 
 
 ### Shreya Chaurasia
 
-<img src="Shreya_profile.jpeg" width="100">
+<img src="Shreya_profile.jpeg" width="150">
 
 
 Shreya Chaurasia is a B.Tech Computer Science scholar driven by an insatiable curiosity for Machine Learning. Ambitious, passionate, and self-motivated, she finds the potential of ML to revolutionize industries utterly captivating. Delving into data to reveal patterns and derive insights, she thrives on crafting innovative solutions. Challenges are her stepping stones to growth, and she relentlessly pursues excellence in all her pursuits.
