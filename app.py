@@ -1366,7 +1366,7 @@ def main():
         people_info = [
             {
                 "name": "Siddhanth Sridhar",
-                "intro":"Meet Siddhanth Sridhar, a fervent Computer Science Engineering (CSE) undergraduate at PES University, deeply immersed in the realm of Machine Learning. Fueled by curiosity and boundless enthusiasm, he continuously delves into the intricacies of artificial intelligence. He staunchly believes in technology's potential to reshape industries and enhance livelihoods, propelling him to the forefront of this exhilarating revolution",
+                "intro":"Meet Siddhanth Sridhar, a fervent Computer Science Engineering (CSE) undergraduate at PES University, deeply immersed in the realm of Machine Learning. Fueled by curiosity and boundless enthusiasm, he continuously delves into the intricacies of artificial intelligence. He staunchly believes in technology's potential to reshape industries and enhance livelihoods, propelling him to the forefront of this exhilarating revolution.",
                 "linkedin": "https://www.linkedin.com/in/siddhanth-sridhar-4aa9aa222/",
                 "github": "https://github.com/sidd2305",
                 "image": "Sid_profile.jpeg"
