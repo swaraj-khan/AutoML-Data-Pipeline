@@ -1,0 +1,28 @@
+Dataset Name,Dataset Link,Number Of Records,Number Of Columns,Number Of Date/Time Colums,Number of Textual Columns,Number of Numeric Columns,Total Number of highly dependent columns,Dropout,Optimizer,Hidden units,Epochs,Batch Size
+Iris Species,https://www.kaggle.com/datasets/uciml/iris/data,150,6,0,1,5,4,0,1,"[48,16,3]",5,1
+Titanic,https://www.kaggle.com/competitions/titanic/data,891,12,0,5,7,0,0,1,"[18,60,1]",30,60
+California Housing Prices,https://www.kaggle.com/datasets/camnugent/california-housing-prices,20640,10,0,1,9,6,0,,"[50,50,20]",1,15
+Mobile price prediction,https://www.kaggle.com/code/girishmehra/mobile-price-classification-with-ann/input,2000,21,0,0,21,2,0,0,"[8,6,4]",105,64
+heart_failure_clinical_records_dataset,https://www.kaggle.com/code/karnikakapoor/heart-failure-prediction-ann/input,299,13,0,0,13,0,0.25,0,"[16,8,4,1]",500,32
+breast cancer wisconsin,https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data,569,33,0,1,32,23,0,0,"[16,16,1]",400,400
+Churn Modelling,https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling,10000,14,0,3,11,0,0.1,0,"[6,6,1]",100,10
+Rain in Australia,https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package,145460,23,1,6,16,6,0.25,0,"[32,32,16,8,1]",150,32
+Bank Customer Churn Prediction,https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction,10000,14,0,3,11,0,0,0,"[6,6,1]",100,10
+Activity Recognition in Senior Citizens,https://www.kaggle.com/datasets/anshtanwar/adult-subjects-70-95-years-activity-recognition,103860,8,1,0,7,2,0.2,0,"[64,9]",10,64
+Medical Cost Personal Datasets,https://www.kaggle.com/datasets/mirichoi0218/insurance,1338,7,0,3,4,0,0,0,"[12,8,4,1]",300,50
+Digit Recognizer,https://www.kaggle.com/competitions/digit-recognizer/data,30402,785,0,0,785,250,0.3,0,"[350,165,64,10]",50,50
+Mushroom Classification,https://www.kaggle.com/datasets/uciml/mushroom-classification,8124,23,0,23,0,0,0.2,0,"[20,20,1]",50,32
+Stoke prediction,https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset,5110,12,0,5,7,0,0,0,"[256,256,2]",150,30
+Credit Card Fraud Detection,https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud,257457,31,0,0,31,0,0,0,"[15,6,1]",70,40
+Campus Recruitment,https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement,215,15,0,8,7,0,0.5,0,"[36,36,2]",150,100
+early_stage_diabetes_risk_prediction,https://www.kaggle.com/datasets/tanshihjen/early-stage-diabetes-risk-prediction,520,17,0,16,1,0,0.1,0,"[9,9,9,1]",100,12
+Price of Used Toyota Corolla Cars,https://www.kaggle.com/datasets/vishakhdapat/price-of-used-toyota-corolla-cars,1436,39,0,3,36,8,0.1,0,"[64,64,64,1]",100,12
+Supermarket store branches sales analysis,https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data,896,5,0,0,5,2,0,0,"[100,100,50]",100,896
+Biomechanical features of orthopedic patients,https://www.kaggle.com/datasets/uciml/biomechanical-features-of-orthopedic-patients,310,7,0,1,6,2,0,0,"[96,48,1]",100,310
+Pima Indians Diabetes Database,https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database,768,9,0,0,9,0,0.1,1,"[128,128,1]",20,32
+Amazon Musical Instruments Reviews,https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews,10261,9,1,6,2,0,0,0,"[75,50,25,10,1]",10,32
+Natural Language Processing with Disaster Tweets,https://www.kaggle.com/competitions/nlp-getting-started/data?select=train.csv,7613,5,0,3,2,0,0.1,0,"[128,32,1]",12,32
+Passenger Satisfaction,https://www.kaggle.com/datasets/johndddddd/customer-satisfaction,129880,24,0,5,19,2,0,0,"[256,64,16,4,1]",100,32
+Obesity or CVD risk,https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster,2111,17,0,9,8,0,0.1,1,"[128,128,7]",5,32
+Santander Value Prediction,https://www.kaggle.com/competitions/santander-value-prediction-challenge/data?select=train.csv,4459,4993,0,1,4992,937,0,0,"[64,32,16,8]",30,16
+Hotels Booking Data,https://www.kaggle.com/datasets/khairullahhamsafar/hotels-booking-data-cleaned-version,119390,32,2,10,20,0,0,0,"[27,27,1]",10,32
