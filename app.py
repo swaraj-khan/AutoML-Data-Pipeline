@@ -1381,8 +1381,7 @@ Meet Siddhanth Sridhar, a fervent Computer Science Engineering (CSE) undergradua
             },
             {
                 "name": "Shreya Chaurasia",
-                "intro": "
-Introducing Shreya Chaurasia, a B.Tech Computer Science scholar driven by an insatiable curiosity for Machine Learning. Ambitious, passionate, and self-motivated, she finds the potential of ML to revolutionize industries utterly captivating. Delving into data to reveal patterns and derive insights, she thrives on crafting innovative solutions. Challenges are her stepping stones to growth, and she relentlessly pursues excellence in all her pursuits.",
+                "intro": "Introducing Shreya Chaurasia, a B.Tech Computer Science scholar driven by an insatiable curiosity for Machine Learning. Ambitious, passionate, and self-motivated, she finds the potential of ML to revolutionize industries utterly captivating. Delving into data to reveal patterns and derive insights, she thrives on crafting innovative solutions. Challenges are her stepping stones to growth, and she relentlessly pursues excellence in all her pursuits.",
                 "linkedin": "https://www.linkedin.com/in/shreya-chaurasia-4b5407266/",
                 "github": "https://github.com/shreyyasiaa",
                 "image": "Shreya_profile.jpeg"
