@@ -28,7 +28,7 @@ Dynamic AutoML is a versatile platform designed to streamline various data tasks
 
 ## Dynamic AutoML: A Closer Look
 
-### CSV Dataset Analysis and LazyPredict Model
+#### CSV Dataset Analysis and LazyPredict Model
 
 **Dynamic Dataset Architecture**
 - The architecture of CSV datasets is dynamically determined by analyzing their structure, including the number of records, columns, and their types (textual, numeric, date). This dynamic approach ensures that our platform can handle a wide range of dataset formats without requiring manual configuration.
@@ -36,7 +36,7 @@ Dynamic AutoML is a versatile platform designed to streamline various data tasks
 **LazyPredict Model Implementation**
 - Our LazyPredict model is implemented from scratch to provide developers with a comprehensive tool for model selection and comparison. By automating the process of evaluating multiple models with various configurations, developers can quickly identify the most suitable model for their specific task, saving time and effort.
 
-### Image Classification and Detection
+#### Image Classification and Detection
 
 **Automatic Model Training**
 - Our platform simplifies the process of image classification by automating model training. Developers can upload a zip folder containing images organized into folders as classes. The platform then trains models using this data, enabling accurate classification of new images based on their content.
@@ -44,7 +44,7 @@ Dynamic AutoML is a versatile platform designed to streamline various data tasks
 **Dynamic Image Segmentation**
 - Using techniques like YOLO, our platform dynamically determines classes from datasets such as COCO128, enabling precise image segmentation. This capability allows developers to identify and isolate specific objects within images, opening up possibilities for applications such as medical image analysis, autonomous vehicles, and more.
 
-### LSTM Model Training
+#### LSTM Model Training
 
 **Dynamic Architecture Determination**
 - Similar to CSV datasets, the architecture of LSTM models is dynamically determined based on the dataset's characteristics. This approach ensures that the model architecture is optimized for the specific task and dataset, leading to improved performance and adaptability.
