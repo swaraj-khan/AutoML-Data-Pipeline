@@ -100,7 +100,8 @@ Swaraj Khan is a driven B.Tech student at Dayananda Sagar University, immersing 
 
 ### Shreya Chaurasia
 
-![Shreya Chaurasia](Shreya_profile.jpegg)
+<img src="Shreya_profile.jpeg" width="100">
+
 
 Shreya Chaurasia is a B.Tech Computer Science scholar driven by an insatiable curiosity for Machine Learning. Ambitious, passionate, and self-motivated, she finds the potential of ML to revolutionize industries utterly captivating. Delving into data to reveal patterns and derive insights, she thrives on crafting innovative solutions. Challenges are her stepping stones to growth, and she relentlessly pursues excellence in all her pursuits.
 
