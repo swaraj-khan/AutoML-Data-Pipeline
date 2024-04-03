@@ -62,9 +62,6 @@ Dynamic AutoML is a versatile platform designed to streamline various data tasks
 
 **Access:** Access the platform directly [here](https://automl-data-pipeline.streamlit.app/).
 
-## Contributions
-
-Contributions are welcome! Please feel free to open issues or pull requests for any enhancements or bug fixes. Together, we can continue to improve and expand the capabilities of Dynamic AutoML to better serve the needs of developers.
 
 ## How It Helps Developers
 
@@ -78,3 +75,38 @@ Dynamic AutoML offers a range of features designed to streamline the development
 - **Streamlined Development Workflow:** User-friendly interface for seamless development experience.
 - **Automated Image Analysis and Segmentation:** Simplifies image analysis and segmentation.
 - **Efficient Image Classification:** Train image classification models effortlessly.
+
+## The Team
+
+Meet the passionate individuals behind Dynamic AutoML:
+
+### Siddhanth Sridhar
+
+![Siddhanth Sridhar](Sid_profile.jpeg)
+
+Siddhanth Sridhar is a fervent Computer Science Engineering (CSE) undergraduate at PES University, deeply immersed in the realm of Machine Learning. Fueled by curiosity and boundless enthusiasm, he continuously delves into the intricacies of artificial intelligence. He staunchly believes in technology's potential to reshape industries and enhance livelihoods, propelling him to the forefront of this exhilarating revolution.
+
+- LinkedIn: [Siddhanth Sridhar's LinkedIn Profile](https://www.linkedin.com/in/siddhanth-sridhar/)
+- GitHub: [Siddhanth Sridhar's GitHub Profile](https://github.com/siddhanth-sridhar)
+
+### Swaraj Khan
+
+![Swaraj Khan](Swaraj_profile.jpeg)
+
+Swaraj Khan is a driven B.Tech student at Dayananda Sagar University, immersing himself in the realm of Computer Science with a special focus on machine learning. With an unwavering commitment to tackling real-world challenges, Swaraj harnesses the power of technology to unravel complexities and pave the way for innovative solutions.
+
+- LinkedIn: [Swaraj Khan's LinkedIn Profile](https://www.linkedin.com/in/swaraj-khan/)
+- GitHub: [Swaraj Khan's GitHub Profile](https://github.com/swaraj-khan)
+
+### Shreya Chaurasia
+
+![Shreya Chaurasia](Shreya_profile.jpegg)
+
+Shreya Chaurasia is a B.Tech Computer Science scholar driven by an insatiable curiosity for Machine Learning. Ambitious, passionate, and self-motivated, she finds the potential of ML to revolutionize industries utterly captivating. Delving into data to reveal patterns and derive insights, she thrives on crafting innovative solutions. Challenges are her stepping stones to growth, and she relentlessly pursues excellence in all her pursuits.
+
+- LinkedIn: [Shreya Chaurasia's LinkedIn Profile](https://www.linkedin.com/in/shreya-chaurasia/)
+- GitHub: [Shreya Chaurasia's GitHub Profile](https://github.com/shreya-chaurasia)
+
+## Contributions
+
+Contributions are welcome! Please feel free to open issues or pull requests for any enhancements or bug fixes. Together, we can continue to improve and expand the capabilities of Dynamic AutoML to better serve the needs of developers.
