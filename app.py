@@ -1332,22 +1332,20 @@ def main():
         st.write(df_lstm)
         st.write("Average Reduction In Loss % : 63.66364104 ")
 
-        st.write("### CSV Dataset Analysis")
-        df_csv = pd.DataFrame({
-            'Dataset Name': ["Iris Species","Titanic","California Housing Prices","Mobile price prediction","heart_failure_clinical_records_dataset","breast cancer wisconsin","Churn Modelling","Rain in Australia","Bank Customer Churn Prediction","Activity Recognition in Senior Citizens","Medical Cost Personal Datasets","Digit Recognizer","Mushroom Classification","Stoke prediction","Credit Card Fraud Detection","Campus Recruitment","early_stage_diabetes_risk_prediction","Price of Used Toyota Corolla Cars","Supermarket store branches sales analysis","Biomechanical features of orthopedic patients","Pima Indians Diabetes Database","Amazon Musical Instruments Reviews","Natural Language Processing with Disaster Tweets","Passenger Satisfaction","Obesity or CVD risk","Santander Value Prediction","Hotels Booking Data"],
-            'Number Of Records': [150, 891, 20640, 2000, 299, 569, 10000, 145460, 10000, 103860, 1338, 30402, 8124, 5110, 257457, 215, 520, 1436, 896, 310, 768, 10261, 7613, 129880, 2111, 4459, 119390],
-            'Number Of Columns': [6, 12, 10, 21, 13, 33, 14, 23, 14, 8, 7, 785, 23, 12, 31, 15, 17, 39, 5, 7, 9, 9, 5, 24, 17, 4993, 32],
-            'Number Of Date/Time Colums': [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2],
-            'Number of Textual Columns': [1, 5, 1, 0, 0, 1, 3, 6, 3, 0, 3, 0, 23, 5, 0, 8, 16, 3, 0, 1, 0, 6, 3, 5, 9, 1, 10],
-            'Number of Numeric Columns': [5, 7, 9, 21, 13, 32, 11, 16, 11, 7, 4, 785, 0, 7, 31, 7, 1, 36, 5, 6, 9, 2, 2, 19, 8, 4992, 20],
-            'Number of highly dependent columns': [4, 0, 6, 2, 0, 23, 0, 6, 0, 2, 0, 250, 0, 0, 0, 0, 0, 8, 2, 2, 0, 0, 0, 2, 0, 937, 0],
-            'Dropout': [0, 0, 0, 0, 0.25, 0, 0.1, 0.25, 0, 0.2, 0, 0.3, 0.2, 0, 0, 0.5, 0.1, 0.1, 0, 0, 0.1, 0, 0.1, 0, 0.1, 0, 0],
-            'Optimizer': [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0],
-            'Hidden units': [[48,16,3], [18,60,1], [50,50,20], [8,6,4], [16,8,4,1], [16,16,1], [6,6,1], [32,32,16,8,1], [6,6,1], [64,9], [12,8,4,1], [350,165,64,10], [20,20,1], [256,256,2], [15,6,1], [36,36,2], [9,9,9,1], [64,64,64,1], [100,100,50], [96,48,1], [128,128,1], [75,50,25,10,1], [128,32,1], [256,64,16,4,1], [128,128,7], [64,32,16,8], [27,27,1]],
-            'Epochs': [5, 30, 1, 105, 500, 400, 100, 150, 100, 10, 300, 50, 50, 150, 70, 150, 100, 100, 100, 100, 20, 10, 12, 100, 5, 30, 10],
-            'Batch Size': [1, 60, 15, 64, 32, 400, 10, 32, 10, 64, 50, 50, 32, 30, 40, 100, 12, 12, 896, 310, 32, 32, 32, 32, 32, 16, 32]
-        })
-        st.write(df_csv)
+        st.write("### CSV Results")
+        csv_data = pd.DataFrame({
+            "Sno.": [1, 2, 3, 4, 5, 6, 7],
+            "Datasets": ["Heart failure", "Electricity", "Twitter dataset", "Mushrooms", "Insurace", "Diabetes risk prediction", "Bank Churning Model"],
+            "X_columns": ["age, anaemia, creatinine_phospokinase", "power_consumed, weather_index, holiday_index, humidity", "tweet", "cap-shape, cap-surface, habitat, veil-color", "age, bmi, children, smoker", "Age, Gender, Polyuria, Polydipsia, sudden weight loss, weakness", "Row Number, Customer ID, Credit Score"],
+            "Y_column": ["DEATH_EVENT", "maximum_temperature", "label", "class", "charges", "class", "IsActiveMember"],
+            "Lazy Predict(Yes/No)": ["No", "Yes", "Yes", "No", "Yes", "Yes", "No"],
+            "LP model and max accuracy": ["Null", "AdaBoost-91.3%", "XGBoost-93.10%", "Null", "Random Forest-85.13%", "Decision Tree-95.19%", "Null"],
+            "Initial ann loss": ["0.2825", "Null", "Null", "0.384", "Null", "Null", "0.366"],
+            "Final ann loss": ["0.2073", "Null", "Null", "0.249", "Null", "Null", "0.2499"],
+            "Percentage Loss": ["26.60%", "Null", "Null", "35.10%", "Null", "Null", "31.72%"]})
+        st.write(csv_data)
+        st.write("Avg Accuracy % : 91.19%")
+        st.write("Avg Decrease % : 31.14%")
         st.write("### Image Segmentation Analysis")
         df_performance = pd.DataFrame({
         'Dataset Name': ["Dogs vs Cats", "Medical Images", "Autonomous Driving", "Satellite Imagery", "Histopathology", "Semantic Segmentation Benchmark", "Lung Nodule Detection", "Plant Disease Identification"],
