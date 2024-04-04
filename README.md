@@ -2,29 +2,6 @@
 
 Dynamic AutoML is a versatile platform designed to streamline various data tasks, including CSV analysis, LSTM modeling, and image classification and detection. Our platform offers advanced features and capabilities to empower developers in handling diverse datasets efficiently.
 
-## Features
-
-### CSV Dataset Analysis and LazyPredict Model
-
-**Dynamic Dataset Architecture:** The platform dynamically determines the architecture of CSV datasets based on their structure, ensuring flexibility and adaptability across different data formats.
-
-**LazyPredict Model:** We have implemented our own LazyPredict model from scratch, providing developers with a powerful tool for quick and efficient model selection and comparison.
-
-### Image Classification and Detection
-
-**Image Classification**
-- **Automatic Model Training:** Our platform supports automatic image classification, enabling developers to train models effortlessly by providing a zip folder with folders as classes.
-- **Detailed Class Prediction:** The trained models can accurately predict the class of new images, allowing for precise categorization and analysis.
-
-**Image Detection**
-- **Dynamic Image Segmentation:** Leveraging advanced techniques such as YOLO (You Only Look Once), our platform dynamically determines classes from datasets like COCO128, facilitating accurate image segmentation.
-- **Precise Object Detection:** With our image detection capabilities, developers can detect and classify objects within images, opening up possibilities for various applications, including object recognition and localization.
-
-### LSTM Model Training
-
-**Dynamic Architecture Determination:** Similar to CSV datasets, the architecture of LSTM models is dynamically determined based on the dataset's characteristics, ensuring optimal performance and adaptability.
-
-**Streamlined Model Training:** Our platform simplifies LSTM model training by automatically tuning hyperparameters based on dataset properties, reducing the manual effort required for experimentation and optimization.
 
 ## Dynamic AutoML: A Closer Look
 
