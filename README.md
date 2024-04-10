@@ -53,7 +53,7 @@ Dynamic AutoML offers a range of features designed to streamline the development
 - **Automated Image Analysis and Segmentation:** Simplifies image analysis and segmentation.
 - **Efficient Image Classification:** Train image classification models effortlessly.
 
-##Run the application
+## Run the application
 Execute these two lines of code,and you`re all set!
 ```python
 pip install requirements.txt
