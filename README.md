@@ -56,7 +56,7 @@ Dynamic AutoML offers a range of features designed to streamline the development
 ## Run the application
 Execute these two lines of code,and you`re all set!
 ```python
-pip install requirements.txt
+pip install -r requirements.txt
 streamlit run app.py
 ```
 
