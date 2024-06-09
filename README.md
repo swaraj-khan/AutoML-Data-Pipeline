@@ -71,7 +71,7 @@ Meet the passionate individuals behind Dynamic AutoML:
 Siddhanth Sridhar is a fervent Computer Science Engineering (CSE) undergraduate at PES University, deeply immersed in the realm of Machine Learning. Fueled by curiosity and boundless enthusiasm, he continuously delves into the intricacies of artificial intelligence. He staunchly believes in technology's potential to reshape industries and enhance livelihoods, propelling him to the forefront of this exhilarating revolution.
 
 - LinkedIn: [Siddhanth Sridhar's LinkedIn Profile](https://www.linkedin.com/in/siddhanth-sridhar/)
-- GitHub: [Siddhanth Sridhar's GitHub Profile](https://github.com/siddhanth-sridhar)
+- GitHub: [Siddhanth Sridhar's GitHub Profile](https://github.com/sidd2305)
 
 ### Swaraj Khan
 
