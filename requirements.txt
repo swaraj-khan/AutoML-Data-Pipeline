@@ -12,3 +12,4 @@ utils
 yolov5
 pyopengl
 opencv-python
+libgl1-mesa-glx
