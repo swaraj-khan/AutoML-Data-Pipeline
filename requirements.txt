@@ -11,5 +11,4 @@ xgboost
 utils
 yolov5
 pyopengl
-cv2
-tempfile
+opencv-python
