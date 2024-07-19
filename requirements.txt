@@ -11,4 +11,4 @@ xgboost
 utils
 yolov5
 pyopengl
-opencv-python-contrib-headless 
+opencv-python-headless
